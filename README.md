@@ -1,6 +1,6 @@
 # Coconut-Jump
 
-This program is a flappy bird remastered to a coconut jumping inbetween trees while being on the beach.
+This program is a flappy bird remastered to a coconut jumping in between trees while being on the beach.
 
 - The image files are what render the background along with the various coconuts that are playable characters
 - All code has code representing functionality to make easy to swap colors, images, functions
